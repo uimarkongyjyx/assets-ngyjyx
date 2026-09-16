@@ -1,0 +1,2 @@
+# assets-ngyjyx
+static assets
